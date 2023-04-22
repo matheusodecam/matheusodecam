@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15444
-Fork on GitHub
-4229
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Matheus D. Mesquita</h1>
 <h3 align="center">I'm a Dart Developer | Flutter Developer, directly from Brazil.</h3>
 
