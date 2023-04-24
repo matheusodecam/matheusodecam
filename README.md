@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusodecam" alt="matheusodecam" /></a> </p>
 
-- 🌱 I’m currently learning **Dart | Flutter | SQlite**
+- 🌱 I’m currently learning **Dart | Flutter | SQlite | Firebase**
 
 - 👨‍💻 My personal projects: [PROJETO 1](https://github.com/matheusodecam/Portfolio_Project1)
 
