@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dart | Flutter | SQlite**
 
-- 👨‍💻 My personal projects: => [https://github.com/matheusodecam/Portfolio_Project1](https://github.com/matheusodecam/Portfolio_Project1)
+- 👨‍💻 My personal projects: [PROJETO 1](https://github.com/matheusodecam/Portfolio_Project1)
 
 - 📫 How to reach me **matheusodecam@gmail.com**
 
