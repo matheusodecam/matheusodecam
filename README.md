@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusodecam&label=Profile%20views&color=0e75b6&style=flat" alt="matheusodecam" /> </p>
 
-- 🌱 I’m currently learning **Dart | Flutter | SQlite | Firebase**
+- 🌱 I’m currently learning: 
+  - **Dart**
+  - **Flutter**
+  - **SQlite**
+  - **Firebase**
 
 - 📑 This is my resume: 
   - [Currículo](https://github.com/matheusodecam/Curriculo/blob/main/README.md)
