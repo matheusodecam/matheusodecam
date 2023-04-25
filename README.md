@@ -7,7 +7,9 @@
 
 - 📑 This is my resume: [Currículo](https://github.com/matheusodecam/Curriculo/blob/main/README.md)
 
-- 👨‍💻 My personal projects: [Clinica DR Luiz](https://github.com/matheusodecam/Portfolio_Project1)
+- 👨‍💻 My personal projects: 
+  - [Clinica DR Luiz - Flutter](https://github.com/matheusodecam/Portfolio_Project1)
+  - [Criptografia em C](https://github.com/matheusodecam/TrabalhoCriptografia/tree/master)
 
 - 📫 How to reach me **matheusodecam@gmail.com**
 
