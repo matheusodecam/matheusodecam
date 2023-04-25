@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Dart | Flutter | SQlite | Firebase**
 
-- 👨‍💻 My personal projects: [PROJETO 1](https://github.com/matheusodecam/Portfolio_Project1)
+- 📑 This is my resume: [Resume](https://github.com/matheusodecam/Curriculo/blob/main/README.md)
+
+- 👨‍💻 My personal projects: [Clinica DR Luiz](https://github.com/matheusodecam/Portfolio_Project1)
 
 - 📫 How to reach me **matheusodecam@gmail.com**
 
