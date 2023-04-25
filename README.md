@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **Dart | Flutter | SQlite | Firebase**
 
-- 📑 This is my resume: [Currículo](https://github.com/matheusodecam/Curriculo/blob/main/README.md)
+- 📑 This is my resume: 
+  - [Currículo](https://github.com/matheusodecam/Curriculo/blob/main/README.md)
 
 - 👨‍💻 My personal projects: 
   - [Clinica DR Luiz - Flutter](https://github.com/matheusodecam/Portfolio_Project1)
   - [Criptografia em C](https://github.com/matheusodecam/TrabalhoCriptografia/tree/master)
 
-- 📫 How to reach me **matheusodecam@gmail.com**
+- 📫 How to reach me: 
+  - **matheusodecam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
