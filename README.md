@@ -7,6 +7,7 @@
   - **Dart**
   - **Flutter**
   - **SQlite**
+  - **MySQL**
   - **Firebase**
 
 - 📑 This is my resume: 
