@@ -16,7 +16,8 @@
 - 👨‍💻 My personal projects: 
   - FLUTTER
     - [Clinica DR Luiz](https://github.com/matheusodecam/Portfolio_Project1)
-  - [Criptografia](https://github.com/matheusodecam/TrabalhoCriptografia/tree/master)
+  - C
+    - [Criptografia](https://github.com/matheusodecam/TrabalhoCriptografia/tree/master)
 
 - 📫 How to reach me: 
   - **matheusodecam@gmail.com**
