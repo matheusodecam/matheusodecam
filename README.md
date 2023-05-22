@@ -16,6 +16,10 @@
 - 👨‍💻 My personal projects: 
   - FLUTTER
     - [Clinica DR Luiz](https://github.com/matheusodecam/Portfolio_Project1)
+    - [Refeições](https://github.com/matheusodecam/refeicoes.git)
+    - [Loja](https://github.com/matheusodecam/loja.git)
+    - [Despesas](https://github.com/matheusodecam/despesas.git)
+    - [DevsTravel](https://github.com/matheusodecam/devstravel)
   - C
     - [Criptografia](https://github.com/matheusodecam/TrabalhoCriptografia/tree/master)
 
