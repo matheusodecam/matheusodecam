@@ -26,14 +26,17 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,java,c" />
   </a>
 </p>
-  - Ferramentas
+  - Back-End:
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
+  </a>
+</p>
+  - Ferramentas:
   <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
-</p>
-
-<a href="https://linkedin.com/in/matheusodecam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusodecam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
