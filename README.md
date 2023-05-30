@@ -18,12 +18,18 @@
   - C
     - [Criptografia](https://github.com/matheusodecam/TrabalhoCriptografia/tree/master)
 
-<h3 align="left">🔰 Skills</h3>
+<h2 align="left">🔰 Skills:</h2>
 <p align="left">
   - Linguagens e Frameworks:
   <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,java,c" />
+  </a>
+</p>
+  - Ferramentas
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 
