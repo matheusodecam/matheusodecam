@@ -18,9 +18,6 @@
   - C
     - [Criptografia](https://github.com/matheusodecam/TrabalhoCriptografia/tree/master)
 
-- 📫 How to reach me: 
-  - **matheusodecam@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
