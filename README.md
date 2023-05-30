@@ -26,6 +26,7 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,java,c" />
   </a>
 </p>
+<p align="left">
   - Back-End:
   <p align="left">
   <a href="https://skillicons.dev">
@@ -33,6 +34,7 @@
   </a>
 </p>
   - Ferramentas:
+<p align="left">
   <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
