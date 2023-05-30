@@ -21,7 +21,11 @@
 <h3 align="left">🔰 Skills</h3>
 <p align="left">
   - Linguagens e Frameworks:
-  <palign="left">[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <a href="https://linkedin.com/in/matheusodecam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusodecam" height="30" width="40" /></a>
 </p>
