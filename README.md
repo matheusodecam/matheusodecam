@@ -1,8 +1,8 @@
 <h1 align="center">Olá, sou o Matheus Mesquita</h1>
 <h4 align="center">Desenvolvedor Flutter</h4>
 
-<h2 align="left"><p>Sobre mim:</p></h2>
-<p><i>Matheus Macedo de Mesquita</i></p>
+<h3 align="left">▶️ Sobre mim:</h3>
+<p><i>Possuo graduação em Matemática Bacharelado. Atualmente curso Engenharia da Computação. Realizei vários minicursos relacionados a programação e desenvolvimento de software, tais como: Desenvolvimento de Jogos em Unity, Internet das Coisas, Arduino Básico. Também fui medalhista em uma Olimpíada de Programação (em C). Atualmente, estudo: Dart, Flutter, Java, C, SQLite, GIT, GITHUB, API RESTfull, MOBX, Firebase, Noções de boas práticas de codificação, design patterns, código limpo e testes de unidade.</i></p>
 
 - 🌱 Estudando e me aprimorando em Dart, Flutter, SQlite, Firebase, C, Java 
 - 📑 Este é meu [Currículo](https://github.com/matheusodecam/Curriculo/blob/main/README.md)
