@@ -18,7 +18,7 @@
   - C
     - [Criptografia](https://github.com/matheusodecam/TrabalhoCriptografia/tree/master)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔰 Skills</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/matheusodecam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusodecam" height="30" width="40" /></a>
