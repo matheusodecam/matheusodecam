@@ -1,8 +1,8 @@
 <h1 align="center">Olá, sou o Matheus Mesquita</h1>
 <h4 align="center">Desenvolvedor Flutter</h4>
 
-<h2 align="left">Sobre mim:</h2>
-<h3><i>Matheus Macedo de Mesquita</i></h3>
+<h2 align="left"><p>Sobre mim:</p></h2>
+<p><i>Matheus Macedo de Mesquita</i></p>
 
 - 🌱 Estudando e me aprimorando em Dart, Flutter, SQlite, Firebase, C, Java 
 - 📑 Este é meu [Currículo](https://github.com/matheusodecam/Curriculo/blob/main/README.md)
