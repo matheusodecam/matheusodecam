@@ -7,7 +7,7 @@
 
 - 📑 Este é meu [Currículo](https://github.com/matheusodecam/Curriculo/blob/main/README.md)
 
-- 👨‍💻 My personal projects: 
+- 👨‍💻 Alguns de meus projetos 
   - FLUTTER
     - [appClinica](https://github.com/matheusodecam/Portfolio_Project1)
     - [appRefeicoes](https://github.com/matheusodecam/appRefeicoes.git)
