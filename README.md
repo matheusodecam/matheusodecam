@@ -1,5 +1,5 @@
-<h1 align="center">Olá, sou o Matheus Mesquita</h1>
-<h5 align="center">Desenvolvedor Flutter</h5>
+<h2 align="center">Olá, sou o Matheus Mesquita</h2>
+<h4 align="center">Desenvolvedor Flutter</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusodecam&label=Profile%20views&color=0e75b6&style=flat" alt="matheusodecam" /> </p>
 
