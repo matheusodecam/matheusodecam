@@ -1,7 +1,8 @@
 <h1 align="center">Olá, sou o Matheus Mesquita</h1>
 <h4 align="center">Desenvolvedor Flutter</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusodecam&label=Profile%20views&color=0e75b6&style=flat" alt="matheusodecam" /> </p>
+<h2 align="left">Sobre mim:</h2>
+<p><i>Matheus Macedo de Mesquita</i></p>
 
 - 🌱 Estudando e me aprimorando em Dart, Flutter, SQlite, Firebase, C, Java 
 - 📑 Este é meu [Currículo](https://github.com/matheusodecam/Curriculo/blob/main/README.md)
@@ -34,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusodecam&show_icons=true&locale=en" alt="matheusodecam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusodecam&" alt="matheusodecam" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusodecam&label=Profile%20views&color=0e75b6&style=flat" alt="matheusodecam" /> </p>
