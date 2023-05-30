@@ -14,11 +14,11 @@
 
 - 👨‍💻 My personal projects: 
   - FLUTTER
-    - [Clinica DR Luiz](https://github.com/matheusodecam/Portfolio_Project1)
-    - [Refeições](https://github.com/matheusodecam/refeicoes.git)
-    - [Loja](https://github.com/matheusodecam/loja.git)
-    - [Despesas](https://github.com/matheusodecam/despesas.git)
-    - [DevsTravel](https://github.com/matheusodecam/devstravel)
+    - [appClinica](https://github.com/matheusodecam/Portfolio_Project1)
+    - [appRefeicoes](https://github.com/matheusodecam/appRefeicoes.git)
+    - [appLoja](https://github.com/matheusodecam/appLoja.git)
+    - [appDespesas](https://github.com/matheusodecam/appDespesas.git)
+    - [appDevsTravel](https://github.com/matheusodecam/devstravel)
   - C
     - [Criptografia](https://github.com/matheusodecam/TrabalhoCriptografia/tree/master)
 
