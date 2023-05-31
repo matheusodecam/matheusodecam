@@ -6,7 +6,7 @@
 
 - 🌱 Estudando e me aprimorando em Dart, Flutter, SQlite, Firebase, C, Java 
 - 📑 Este é meu [Currículo](https://github.com/matheusodecam/Curriculo/blob/main/README.md)
-- 📚 Graduando na Univerdade Federal do Ceará. Estudante na Udemy, B7Web, DIO 
+- 📚 Universitário na Univerdade Federal do Ceará. Estudante na Udemy, B7Web, DIO 
 
 - 👨‍💻 Alguns de meus projetos: 
   - FLUTTER
