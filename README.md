@@ -10,9 +10,9 @@
 
 - 👨‍💻 Alguns de meus projetos: 
   - FLUTTER
-    - [appRefeicoes](https://github.com/matheusodecam/appRefeicoes.git)
     - [appLoja](https://github.com/matheusodecam/appLoja.git)
-    - [appDespesas](https://github.com/matheusodecam/appDespesas.git)
+    - [appDespesas](https://github.com/matheusodecam/appDespesas.git)    
+    - [appRefeicoes](https://github.com/matheusodecam/appRefeicoes.git)
     - [appDevsTravel](https://github.com/matheusodecam/devstravel)
     - [appClinica](https://github.com/matheusodecam/Portfolio_Project1)
   - C
